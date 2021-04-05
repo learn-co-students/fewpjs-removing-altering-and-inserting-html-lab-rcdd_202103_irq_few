@@ -4,3 +4,5 @@ document.body.removeChild(document.querySelector('main'));
 const newHeader = document.createElement('h1');
 newHeader.id = 'victory';
 newHeader.innerHTML = 'Hasar is the champion';
+
+// Why won't you submit?
